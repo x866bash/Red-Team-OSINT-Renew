@@ -2,7 +2,7 @@
 
 ScannOSINTkali adalah tools OSINT (Open Source Intelligence) untuk mengumpulkan informasi dari domain, IP, social media, dan berbagai API publik lainnya. Tools ini menggunakan berbagai sumber seperti WHOIS, Shodan, Twitter, Hunter.io, SecurityTrails, CertSpotter, ZoomEye, Censys, dan AbuseIPDB, Kode ini sebelumnya sangat kacau dan saya berniat untuk di build ulang dengan tambahan sedikit sentuhan `.env` skip jika `API_KEYS` kosong, hasil akan masuk ke dalam file `.json.` dan beberapa fix yang sudah di perbaiki, untuk system menjalankannya sama sekali tidak di rubah, pada dasarnya masih sama namun perubahan itu lah yang membuat saya untuk mengubah sedikit dari kode yang sebelumnya.
 Representasi kode dari sahabat ku: 
-[![skillfoy](https://avatars.githubusercontent.com/u/20802814?v=4)](https://github.com/skilfoy/Red-Team-OSINT)< />
+[![skillfoy](https://avatars.githubusercontent.com/u/20802814?v=4)](https://github.com/skilfoy/Red-Team-OSINT) />
 Terimakasih atas kodenya.
 ---
 ````Edditted Code
