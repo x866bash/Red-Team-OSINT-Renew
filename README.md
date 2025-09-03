@@ -2,7 +2,8 @@
 
 ScannOSINTkali adalah tools OSINT (Open Source Intelligence) untuk mengumpulkan informasi dari domain, IP, social media, dan berbagai API publik lainnya. Tools ini menggunakan berbagai sumber seperti WHOIS, Shodan, Twitter, Hunter.io, SecurityTrails, CertSpotter, ZoomEye, Censys, dan AbuseIPDB, Kode ini sebelumnya sangat kacau dan saya berniat untuk di build ulang dengan tambahan sedikit sentuhan `.env` skip jika `API_KEYS` kosong, hasil akan masuk ke dalam file `.json.` dan beberapa fix yang sudah di perbaiki, untuk system menjalankannya sama sekali tidak di rubah, pada dasarnya masih sama namun perubahan itu lah yang membuat saya untuk mengubah sedikit dari kode yang sebelumnya.
 Representasi kode dari sahabat ku: 
-[![skillfoy](https://avatars.githubusercontent.com/u/20802814?v=4)](https://github.com/skilfoy/Red-Team-OSINT) />
+[![skillfoy](https://avatars.githubusercontent.com/u/20802814?v=4)](https://github.com/skilfoy/Red-Team-OSINT) <-- Klik 
+---
 Terimakasih atas kodenya.
 ---
 ````Edditted Code
@@ -56,8 +57,8 @@ ___  ___/  __  \ /  _____//  _____/\_ |__ _____    _____|  |__
 1. Clone repository:
 
 ```bash
-git clone https://github.com/x866bash/ScannOSINTkali.git
-cd ScannOSINTkali
+git clone https://github.com/x866bash/Red-Team-OSINT-Renew.git
+cd Red-Team-OSINT-Renew
 ```
 
 2. Buat virtual environment:
@@ -68,8 +69,7 @@ source venv/bin/activate  # Linux/macOS
 venv\Scripts\activate     # Windows
 ```
 
-3. Install dependencies:
-
+3. Install dependencies
 ```bash
 pip install -r requirements.txt
 
